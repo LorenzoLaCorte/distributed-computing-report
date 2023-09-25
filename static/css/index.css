@@ -48,6 +48,7 @@ body {
 }
 
 .publication-title {
+    font-size: large;
     text-align: center;
     font-family: 'Google Sans', sans-serif;
 }
