@@ -48,8 +48,8 @@ body {
 }
 
 .publication-title {
-    font-size: x-large;
-    font-weight: bold;
+    font-size: large;
+    font-weight: 300;
     text-align: center;
     font-family: 'Google Sans', sans-serif;
 }
